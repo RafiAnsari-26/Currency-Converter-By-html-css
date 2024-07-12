@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 850px;
+    height: 500px;
+    position: relative;
+    margin-left: 160px;
+    margin-top: 50px;
+
+}
+.container img{
+    width: 850px;
+    height: 500px;
+ 
+}
+.container .text h1{
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    top: 170px;
+    line-height: 70px;
+    margin-left: 40px;
+}
+.container .text img{
+    position:absolute;
+    top: 60px;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px; 
+}
+.container .text .img2 img{
+    position:absolute;
+    top: 60px;
+    height: 100px;
+    width: 100px;
+    margin-left: 180px;
+   
+}
+.container .log-in{
+    width: 260px;
+    height: 350px;
+    border: 3px solid #3530db;
+    position: absolute;
+    top: 80px;
+    margin-left: 490px;
+}
+.container .log-in h2{
+    color: white;
+    margin: 18px;
+}
+.container .log-in label{
+    color: white;
+    margin-left: 14px;
+}
+
+.container .log-in input{
+    width: 230px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: ;
+}
+
+.container .log-in select {
+   
+    margin-left: 14px;
+    border: 2px solid white;
+    padding: 4px;
+    margin-top: 5px;
+    cursor: pointer;
+    
+}
+
+.container .log-in .check label{
+    color: white;
+    position: absolute;
+    margin-left: 140px;
+    top: 130px;
+
+} 
+
+.container .log-in .check select{
+    margin-left: 140px;
+    position: absolute;
+    top: 147px;
+
+}
+.container .log-in .button-1 button{
+    width: 240px;
+    height: 33px;
+    position: absolute;
+    margin-left: 7px;
+    top: 210px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+
+  
+
+}
+
+.container .log-in .button-2 button{
+    width: 240px;
+    height: 36px;
+    position: absolute;
+    margin-left: 7px;
+    top: 275px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #5d6393;
+    border-radius: 5px;
+    color: white;
+
+  
+
+}
+
+
+
